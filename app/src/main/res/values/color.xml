@@ -1,0 +1,12 @@
+<resources>
+    <item name="colorPrimary" type='color'>#00796B</item>
+    <color name="colorPrimaryDark">#004D40</color>
+    <item name="colorSecondary" type='color'>#FF5722</item>
+    <color name="colorDeepTeal">@color/material_deep_teal_500</color>
+    <color name="colorCardBackground">@color/material_deep_teal_500</color>
+
+    <color name="white">@color/bright_foreground_material_dark</color>
+
+    <color name="windowBackgroundColor">#B2DFDB</color>
+    <color name="black_translucent">#80000000</color>
+</resources>
